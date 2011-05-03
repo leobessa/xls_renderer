@@ -1,6 +1,7 @@
 = XlsRenderer
 
 A rails 3 renderer for the Microsoft Excel (.xls) format.
+
 XlsRenderer is based on the book "Crafting Rails3 Applications" by @josevalim.
 
 This project rocks and uses MIT-LICENSE.
